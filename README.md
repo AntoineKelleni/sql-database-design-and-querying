@@ -7,13 +7,13 @@ Design and implementation of a relational database with SQL: data modeling, sche
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on practicing SQL and building a relational database from scratch. It aims to strengthen skills in database design, data modeling, SQL querying, and data extraction — essential competencies for any Data Engineer role.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Design and model a relational database
 - Create database schemas using UML and relational models
@@ -23,7 +23,7 @@ This project focuses on practicing SQL and building a relational database from s
 
 ---
 
-## 🛠 Technologies & Tools
+##  Technologies & Tools
 
 - SQL (PostgreSQL / MySQL / SQLite)
 - UML Class Diagrams
@@ -32,7 +32,7 @@ This project focuses on practicing SQL and building a relational database from s
 
 ---
 
-## 💡 Key Skills Acquired
+##  Key Skills Acquired
 
 - Data Modeling & Relational Design
 - SQL DDL (Data Definition Language)
@@ -42,7 +42,7 @@ This project focuses on practicing SQL and building a relational database from s
 
 ---
 
-## 📅 Project Context
+##  Project Context
 
 - Program: Data Engineer (OpenClassrooms)
 - Duration: ~30 hours
@@ -50,23 +50,12 @@ This project focuses on practicing SQL and building a relational database from s
 
 ---
 
-## 🖼 Project Structure
+##  Project Structure
 
 - `/diagrams/` - Database diagrams & models
 - `/sql/` - SQL scripts for database creation, insertion & queries
 - `/documentation/` - Additional explanations and design choices
 
----
 
-## 🚀 Author
-
-[Your Name] — Data Engineer Student @ OpenClassrooms  
-🔗 [LinkedIn Profile] (optional)
-
----
-
-## 📄 License
-
-This project is for educational purposes.
 
 
